@@ -1,0 +1,1 @@
+from EX112 import moeda, dado
